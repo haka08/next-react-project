@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/next-react-project/static/css/main.78b93ce8.css",
+    "main.js": "/next-react-project/static/js/main.c6dcf56d.js",
+    "static/media/ocean.mp4": "/next-react-project/static/media/ocean.291c591c0eebe959063c.mp4",
+    "static/media/dive.jpg": "/next-react-project/static/media/dive.d2e218d70b36b2377d30.jpg",
+    "static/media/equi.jpg": "/next-react-project/static/media/equi.b2aa9179c68cd77fe9e5.jpg",
+    "static/media/heroImg.jpg": "/next-react-project/static/media/heroImg.6fef67526eca36efa5f4.jpg",
+    "index.html": "/next-react-project/index.html",
+    "main.78b93ce8.css.map": "/next-react-project/static/css/main.78b93ce8.css.map",
+    "main.c6dcf56d.js.map": "/next-react-project/static/js/main.c6dcf56d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78b93ce8.css",
+    "static/js/main.c6dcf56d.js"
+  ]
+}
